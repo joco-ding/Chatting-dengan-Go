@@ -1,4 +1,4 @@
-# Chatting-dengan-Go
+# Chatting dengan Go
 
 Aplikasi chatting yang sangat sederhana dengan metode broadcast
 
